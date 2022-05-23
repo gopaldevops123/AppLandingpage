@@ -5,7 +5,7 @@
   <link href="style.css"> 
 <body>
   <div style="padding-left:16px">
-    <h1> may 27 F3 movie release </h1>
+    <h1> MAY 27 F3 MOVIE RELEASE </h1>
   </div>
 </body>
 </html>
